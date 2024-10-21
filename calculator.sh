@@ -8,5 +8,5 @@
 #
 #
 #Addition
-#subtractio
+#subtraction
 #Multiplication
